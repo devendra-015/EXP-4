@@ -1,9 +1,4 @@
-/*
-NAME:ASHAZ SHAKIR PATEL
-UIN:251M003
-CLASS:FE MECHANICAL 
-DIV:F
-*/
+
 #include <stdio.h>
 
 int isPrime(int num) {
